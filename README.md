@@ -33,6 +33,7 @@ Do zrealizowania:
 * automatyczne wypełnianie dokumentów na podstawie bazy danych (canvas, lub gotowy edytor PDF za pomocą javascript)
 * eksport dokumentów do pliku .pdf
 * przypominanie alertem o kończących się badaniach strażaków, przeglądach sprzętu i ubezpieczeniach
+* poprawki kosmetyczne kodu
 
 Z powodu problemów z biblioteką javascript do edycji PDF na dzień dzisiejszy nie udało mi się zrealizować wypełniania dokumentów, jednak w ciągu dwóch tygodni powinno być to zrobione.
 Przypomnienie alertem wymaga dopisania dosłownie 2-3 linijek kodu, prawdopodobnie wieczorem już będzie to skończone.
