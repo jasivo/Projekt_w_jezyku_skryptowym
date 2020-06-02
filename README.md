@@ -21,8 +21,8 @@ Technologie używane:
 * PHP (połączenie z bazą danych)
 
 ===================================================================================
+
 RAPORT 2
-===================================================================================
 Stan na dzień 04.05.2020r. (Prototyp)
 
 Cele zrealizowane:
@@ -39,9 +39,10 @@ Do zrealizowania:
 
 Z powodu problemów z biblioteką javascript do edycji PDF na dzień dzisiejszy nie udało mi się zrealizować wypełniania dokumentów, jednak w ciągu dwóch tygodni powinno być to zrobione.
 Przypomnienie alertem wymaga dopisania dosłownie 2-3 linijek kodu, prawdopodobnie wieczorem już będzie to skończone.
+
 ===================================================================================
+
 RAPORT 3
-===================================================================================
 Stan na dzień 01.06.2020r.
 
 Cele zrealizowane:
