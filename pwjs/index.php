@@ -74,9 +74,11 @@
                 <p class="content">Wyjazdy</p>
             </div>
         </a>
-        <div class="small-box" id="third">
-            <p class="content">Dokumenty</p>
-        </div>
+        <a href="dokumenty.php">
+            <div class="small-box" id="third">
+                <p class="content">Raporty</p>
+            </div>
+        </a>
         <a href="admin_login.php">
             <div class="small-box" id="fourth">
                 <p class="content">Panel Administracyjny</p>
